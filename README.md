@@ -16,6 +16,8 @@ _Project Name: Multimodal VR Simulation with Inverse3 Haptic Device_
 | **Human Resources** <br> *Are there other specialist staff or subject matter experts that will participate?* | - Project team members <br> - Access to FMH Media Lab staff for validating simulation accuracy (error thresholds) |
 | **Other Resources** <br> *Are there other resources to be utilized in the project? Data? Equipment?* | - Unity development tools (C# scripting) <br> - Meta Quest SDK <br> - Inverse3 haptic device SDK/API <br> - Access to Meta Quest 3 headset and Inverse3 hardware via FMH Media Lab <br> - Reference data for realistic tissue resistance values (from literature/client) <br> - Client-provided technical documentation for Inverse3 and Meta Quest + existing internet resources/assets |
 | **Reporting / Meeting Frequency** <br> *With what regularity will the team meet with the client and report to the client.* | - Weekly progress meetings with client to review milestone status, address issues, and agree on next steps <br> - Written progress summaries sent before each meeting |
+
+_[The source code for this project is not included in this repository as it is subject to confidentiality restrictions set by the clients of University of Sydney - Faculty of Medicine & Health.]_
  
     
  
