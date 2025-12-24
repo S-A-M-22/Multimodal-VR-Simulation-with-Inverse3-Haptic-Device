@@ -1,7 +1,6 @@
-# Description
+# 🥽 Multimodal VR Simulation with Inverse3 Haptic Device
 
-_Project Name: Multimodal VR Simulation with Inverse3 Haptic Device_
-
+<br>
 
 | Heading | Content |
 |---------|---------|
